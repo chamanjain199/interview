@@ -1,8 +1,5 @@
 package interview;
 
-class Node{
-	
-}
 
 public class StackMin {
 	
